@@ -1,4 +1,4 @@
-# Tri9T PDF Parsing & Test Case Generation Pipeline
+# Tri9T PDF Parsing Pipeline
 
 An end-to-end document processing pipeline developed for the **Tri9T AI Engineering Internship Assignment**.
 
