@@ -18,7 +18,7 @@ It ingests a PDF, reconstructs a hierarchical tree, persists versioned nodes in 
 Install dependencies, then use one of these commands:
 
 ```bash
-python -m tri9t_pipeline ingest "C:\Users\Rakshitha J\Downloads\AI Engineering Internship Assignment - Tri9T AI (1).pdf" --document-key tri9t-assignment --title "Tri9T Assignment"
+python -m tri9t_pipeline ingest Assignment"
 python -m tri9t_pipeline serve
 ```
 
